@@ -1,0 +1,3 @@
+La cartographie des acteurs est de cette forme-là permet de voir le lien entre les différents acteurs. Ainsi la largeur des liens permet de voir leur lien d'opposition.
+Je voulais que les couleurs des liens (rouge, vert et jaune représente respectivement un avis opposé, d'accord ou mitigé) mais l'intégrateur n'a pas pu 
+du coup on s'est rabattu sur la largeur des liens. La largeur des arcs de cercle représente l'importance de l'acteur dans la controverse et les couleurs , les catagories auquelles il appartient.
